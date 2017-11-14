@@ -1,0 +1,11 @@
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.deps.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.runtimeconfig.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.runtimeconfig.dev.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.dll
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.0/CSharpFundamentals.pdb
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.csprojResolveAssemblyReference.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.AssemblyInfo.cs
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.dll
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.0/CSharpFundamentals.pdb

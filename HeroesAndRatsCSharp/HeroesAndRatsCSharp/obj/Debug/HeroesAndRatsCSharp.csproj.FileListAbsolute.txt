@@ -1,0 +1,8 @@
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HeroesAndRatsCSharp/HeroesAndRatsCSharp/obj/Debug/HeroesAndRatsCSharp.csprojResolveAssemblyReference.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HeroesAndRatsCSharp/HeroesAndRatsCSharp/obj/Debug/HeroesAndRatsCSharp.csproj.CoreCompileInputs.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HeroesAndRatsCSharp/HeroesAndRatsCSharp/bin/Debug/HeroesAndRatsCSharp.dll
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HeroesAndRatsCSharp/HeroesAndRatsCSharp/bin/Debug/HeroesAndRatsCSharp.pdb
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HeroesAndRatsCSharp/HeroesAndRatsCSharp/bin/Debug/nunit.framework.dll
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HeroesAndRatsCSharp/HeroesAndRatsCSharp/bin/Debug/nunit.framework.xml
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HeroesAndRatsCSharp/HeroesAndRatsCSharp/obj/Debug/HeroesAndRatsCSharp.dll
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HeroesAndRatsCSharp/HeroesAndRatsCSharp/obj/Debug/HeroesAndRatsCSharp.pdb

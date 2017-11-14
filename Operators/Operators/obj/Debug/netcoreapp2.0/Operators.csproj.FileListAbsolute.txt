@@ -1,0 +1,11 @@
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/Operators/Operators/bin/Debug/netcoreapp2.0/Operators.deps.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/Operators/Operators/bin/Debug/netcoreapp2.0/Operators.runtimeconfig.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/Operators/Operators/bin/Debug/netcoreapp2.0/Operators.runtimeconfig.dev.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/Operators/Operators/bin/Debug/netcoreapp2.0/Operators.dll
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/Operators/Operators/bin/Debug/netcoreapp2.0/Operators.pdb
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.csprojResolveAssemblyReference.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.csproj.CoreCompileInputs.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.AssemblyInfoInputs.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.AssemblyInfo.cs
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.dll
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.pdb

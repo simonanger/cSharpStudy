@@ -1,0 +1,11 @@
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/TypeConversion/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.deps.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/TypeConversion/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.runtimeconfig.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/TypeConversion/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.runtimeconfig.dev.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/TypeConversion/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.dll
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/TypeConversion/TypeConversion/bin/Debug/netcoreapp2.0/TypeConversion.pdb
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.csprojResolveAssemblyReference.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.AssemblyInfo.cs
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.dll
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/TypeConversion/TypeConversion/obj/Debug/netcoreapp2.0/TypeConversion.pdb

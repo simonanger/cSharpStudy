@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{54CE5BCA-1F54-43E0-8FB1-177EB668889C}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.HeroesAndRatsCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HeroesAndRatsCSharp/TestHero.cs">
+    <Files>
+      <File FileName="HeroesAndRatsCSharp/TestQuest.cs" Line="9" Column="9" />
+      <File FileName="HeroesAndRatsCSharp/Quest.cs" Line="6" Column="28" />
+      <File FileName="HeroesAndRatsCSharp/TestHero.cs" Line="99" Column="10" />
+      <File FileName="HeroesAndRatsCSharp/Hero.cs" Line="75" Column="100" />
+      <File FileName="HeroesAndRatsCSharp/TestWeapon.cs" Line="12" Column="14" />
+      <File FileName="HeroesAndRatsCSharp/Weapon.cs" Line="12" Column="44" />
+      <File FileName="HeroesAndRatsCSharp/TestEnemy.cs" Line="30" Column="54" />
+      <File FileName="HeroesAndRatsCSharp/Enemy.cs" Line="14" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

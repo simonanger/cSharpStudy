@@ -1,0 +1,11 @@
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.deps.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.dev.json
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.pdb
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csprojResolveAssemblyReference.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfo.cs
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/simonanger/codeclan_work/workspace/cSharpStudy/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.pdb
